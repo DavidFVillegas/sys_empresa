@@ -1,0 +1,30 @@
+{
+    "clientes": [
+      { "id": 1, "nombre": "Juan Pérez", "email": "juan.perez@example.com" },
+      { "id": 2, "nombre": "María González", "email": "maria.gonzalez@example.com" },
+      { "id": 3, "nombre": "Carlos Rodríguez", "email": "carlos.rodriguez@example.com" },
+      { "id": 4, "nombre": "Alejandra Ramírez", "email": "alejandra.ramirez@example.com" },
+      { "id": 5, "nombre": "Fernando Torres", "email": "fernando.torres@example.com" },
+      { "id": 6, "nombre": "Sofía Guzmán", "email": "sofia.guzman@example.com" },
+      { "id": 7, "nombre": "Diego Vargas", "email": "diego.vargas@example.com" }      
+    ],
+    "productos": [
+      { "id": 1, "nombre": "Smartphone Samsung Galaxy S21", "precio": 900000 },
+      { "id": 2, "nombre": "Laptop Dell XPS 13", "precio": 1200000 },
+      { "id": 3, "nombre": "Tablet Apple iPad Pro", "precio": 1100000 },
+      { "id": 4, "nombre": "Smartwatch Apple Watch Series 7", "precio": 400000 },
+      { "id": 5, "nombre": "Monitor Dell UltraSharp 27", "precio": 600000 },
+      { "id": 6, "nombre": "Auriculares Sony WH-1000XM4", "precio": 350000 },
+      { "id": 7, "nombre": "Teclado mecánico Logitech G Pro X", "precio": 150000 }
+    ],
+    "proveedores": [
+        { "id": 1, "nombre": "Tecnología Global", "email": "tecnologia.global@example.com" },
+        { "id": 2, "nombre": "ElectroSur", "email": "electrosur@example.com" },
+        { "id": 3, "nombre": "Compumundo", "email": "compumundo@example.com" },
+        { "id": 4, "nombre": "MegaStore", "email": "megastore@example.com" },
+        { "id": 5, "nombre": "TechZone", "email": "techzone@example.com" },
+        { "id": 6, "nombre": "InnovaTech", "email": "innovatech@example.com" },
+        { "id": 7, "nombre": "GadgetPlanet", "email": "gadgetplanet@example.com" }
+      ]
+    }
+      
